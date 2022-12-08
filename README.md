@@ -1,6 +1,6 @@
 # doc-sharing-application
 
-First project in the star@google course.
+First project in the start@google course.
 
 Real-time file editing system.
 
