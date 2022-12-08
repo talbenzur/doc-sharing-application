@@ -6,7 +6,7 @@ Real-time file editing system.
 
 Registering users, Login to the website, creating, editing and sharing documents.
 
-Used: Java, Maven, Spring Boot, Hibernate, Javascript, html, css, Design Patterns.
+Used: Java, Maven, Spring Boot, Hibernate, mySQL, Postman, Javascript, html, css, Design Patterns.
 
 
 
