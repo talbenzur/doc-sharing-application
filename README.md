@@ -1,5 +1,15 @@
 # doc-sharing-application
 
+First project in the star@google course.
+
+Real-time file editing system.
+
+Registering users, Login to the website, creating, editing and sharing documents.
+
+Used: Java, Maven, Spring Boot, Hibernate, Javascript, html, css, Design Patterns.
+
+
+
 Registration
     Users can register using their email.
     Email activation.
