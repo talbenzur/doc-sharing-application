@@ -31,3 +31,9 @@ Import/export docs
     Export: download document s text file.
 Change log
     Who changed what and when
+
+
+![image](https://user-images.githubusercontent.com/76743219/206479568-89878382-83dc-4f19-86e7-6993fddb1681.png)
+
+![image](https://user-images.githubusercontent.com/76743219/206479635-c6e23fbd-3352-4b01-90ce-0ebc670738bf.png)
+
